@@ -1,0 +1,8 @@
+    def check_numeriFloat(self, budg_add):
+        check = False
+        budg_add = budg_add.replace(' ','').replace(',','.')
+        budg_check = list(budg_add)
+        for voc in budg_check:
+            if voc != '.' and voc not in numeri_check:
+                check = True
+        return check
