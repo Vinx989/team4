@@ -8,3 +8,18 @@
             if voc != '.' and voc not in numeri_check:
                 check = True
         return check                                               # ritorna vero o falso
+        
+        
+ 
+ #classe per fare il checkdelle credenziali
+ class User_name:
+    def __init__(self, name, password, badget):
+        self.name = name
+        self.password = password
+        self.budget = badget
+
+    def check_user(self, nome_ins, passw_ins):                     # prende nome_utente e password
+        if nome_ins == self.name and passw_ins == self.password:
+            return True                                            # ritorna un valore vero oppure un messaggio di errore
+        else:
+            print('Error. Campi non corretti')
