@@ -1,8 +1,10 @@
-    def check_numeriFloat(self, budg_add):
+    numeri_check = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
+    
+    def check_numeriFloat(self, budg_add):                        #prende una string come parametro
         check = False
         budg_add = budg_add.replace(' ','').replace(',','.')
         budg_check = list(budg_add)
         for voc in budg_check:
             if voc != '.' and voc not in numeri_check:
                 check = True
-        return check
+        return check                                               # ritorna vero o falso
