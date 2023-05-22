@@ -1,0 +1,40 @@
+
+
+01-todo
+lista_utenti = [{utente(),}]
+
+classe Utente:
+	lista_amici_personali =[]
+	lista_post__personali = []
+	
+	def init (username, nome,cognome, password)
+	
+	def accedi(username, password)
+		return true/false
+		
+	def create_post(self, listta_utenti)
+		 utente.post()
+
+	def cancella_post()
+		utenete.post()
+
+	def following()
+		utente.amici()
+
+	def blocca_follow()
+		utente.amici()
+
+
+classe Post(Utente):
+	lista_commenti_delPost=[]
+
+	def init (username, utente.post())	
+
+	def commenti()
+		utente.post.commenti()?
+
+
+
+while:
+	
+			
