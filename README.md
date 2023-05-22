@@ -4,7 +4,7 @@ Esercitazione python data intelligence experis academy
 I componenti del gruppo sono
 Bassi Stefano
 Alessandra Rispoli
-Nicola Apicella
+Nicola Pacella
 Bruno Vincenzo ( leader)
 
 Commenti:
