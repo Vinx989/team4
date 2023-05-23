@@ -41,9 +41,12 @@ classe utente - crea l'utente con nome, username, password, contiene i metodi cr
 
 # Road map
 
+### Astraction 2.0
 Alla versione 1.0 del programma Astraction seguirà un upgrade che prevede la possibilità di gestire e stabilire la gerarchia delle amicizie( amici stretti, grado di parentela). In questa versione sarà possibile gestire la visione dei post nell'home-page in base alla gerarchia delle amicizie.
 
 La data di release Astraction 2.0 è prevista per il 24/05/2023
+
+### Astraction 2.1
 
 In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento ad una versione 2.1:
 
@@ -53,6 +56,8 @@ In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento a
 - Impostare un profilo business dove si potrà aggiungere un url per accedere ad eventuali shop digitali
 
 La release della verisone 2.1 è prevista per fine settimana (25/05/2023)
+
+### Astraction 2.2
 
 In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento ad una versione 2.2:
 
