@@ -3,13 +3,13 @@ Esercitazione python data intelligence experis academy
 
 I componenti del gruppo sono 
 
-Bassi Stefano (Ueloiol)
+- Bassi Stefano (Ueloiol)
 
-Alessandra Rispoli (Alerisp94)
+- Alessandra Rispoli (Alerisp94)
 
-Nicola Pacella (Pach90)
+- Nicola Pacella (Pach90)
 
-Bruno Vincenzo (Vinx9898) (leader in senso lato)
+- Bruno Vincenzo (Vinx9898) (leader in senso lato)
 
 # Progetto
 
