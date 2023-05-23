@@ -44,11 +44,8 @@ La data di release Astraction 2.0 è prevista per il 24/05/2023
 In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento ad una versione 2.1:
 
 - reaction ai post
-
 - ricondivisione dei post
-
 - Indicatore di popolarità. Rendere visibile i like ricevuti, i folowers ed il numero dei post pubblicati
-
 - Impostare un profilo business dove si potrà aggiungere un url per accedere ad eventuali shop digitali
 
 La release della verisone 2.1 è prevista per fine settimana (25/05/2023)
