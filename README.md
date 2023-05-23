@@ -1,7 +1,7 @@
 # team4
 Esercitazione python data intelligence experis academy
 
-I componenti del gruppo sono
+I componenti del gruppo sono \n
 Bassi Stefano
 Alessandra Rispoli
 Nicola Pacella
