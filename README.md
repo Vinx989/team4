@@ -19,16 +19,16 @@ Al progetto seguira' un upgrade successivo in cui sara' possibile definire i liv
 # Struttura del codice:
 Users e la calsse DataBase permettono di inserire utenti di default nella lista_utenti_oggetto tramite un ciclo for.
 
-## lista_utenti_oggetto - 
+### lista_utenti_oggetto - 
 Contiene la lista degli utenti, dove per ogni utente vengono consrvate tutte le informazioni primarie, amici e post
 
-## la classe Utente - 
+### la classe Utente - 
 Contiene le funzioni principali accedi/registra/crea e cancella post/follow ed unfollow amici. Elementi una volta creati vengono aggiunti
 alla lista_utenti_oggetto
 
-## classe Post
+### classe Post
 
-## main - 
+### main - 
 Il mai comincia con l scelta fra 3 opzioni (1 log in , 2 registrazione, 3 uscita). L'entry-point e l' exit-point avviene escusivamente da qui
 
 - 1-log in - 
