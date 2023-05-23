@@ -57,8 +57,12 @@ In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento a
 
 - bloccao di utenti che possono visualizzare il tuo profilo
 - Inserimento di immagini nei post
+- Possibilità di segnalare post offensivi
 - Impostare un profilo pubblico/privato
 - Inserire la possibilità di verificare il profilo (bollino blue)
+
+La release della versione 2.2 è prevista per il 31/05/2023
+
 # Commenti:
 
 I commenti sono inseriti per ogni blocco di codice ad inizio blocco
