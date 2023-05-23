@@ -35,6 +35,30 @@ main- il mai comincia con l scelta fra 3 opzioni (1 log in , 2 registrazione, 3 
 
 classe utente - crea l'utente con nome, username, password, contiene i metodi creazione
 
+# Road map
+
+Alla versione 1.0 del programma Astraction seguirà un upgrade che prevede la possibilità di gestire e stabilire la gerarchia delle amicizie( amici stretti, grado di parentela). In questa versione sarà possibile gestire la visione dei post nell'home-page in base alla gerarchia delle amicizie.
+
+La data di release Astraction 2.0 è prevista per il 24/05/2023
+
+In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento ad una versione 2.1:
+
+- reaction ai post
+
+- ricondivisione dei post
+
+- Indicatore di popolarità. Rendere visibile i like ricevuti, i folowers ed il numero dei post pubblicati
+
+- Impostare un profilo business dove si potrà aggiungere un url per accedere ad eventuali shop digitali
+
+La release della verisone 2.1 è prevista per fine settimana (25/05/2023)
+
+In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento ad una versione 2.2:
+
+- bloccao di utenti che possono visualizzare il tuo profilo
+- Inserimento di immagini nei post
+- Impostare un profilo pubblico/privato
+- Inserire la possibilità di verificare il profilo (bollino blue)
 # Commenti:
 
 I commenti sono inseriti per ogni blocco di codice ad inizio blocco
@@ -57,3 +81,4 @@ Il codice prevede un diagramma di flusso che descrive il funzionamento del codic
 4- RICOSTRUZIONE: Ricostruzione del codice.
 
 5- DEBUGGING.
+
