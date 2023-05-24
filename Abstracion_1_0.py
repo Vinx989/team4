@@ -83,8 +83,9 @@ class Utente:
 
     # Inizia il follow di un Utente usando la lista lista_utente, che contiene le string con gli username degli Utenti
     def following(self, lista_utenti_oggetto=lista_utenti_oggetto):
-        amico = input('inserisci il nome del tuo amico: ')
-        if amico in lista_utenti_oggetto:
+        index = indice_username(lista_utenti_oggetto)
+        #amico = input('inserisci il nome del tuo amico: ')
+        if index != False:
             self.amici_utente.append(amico)
         else:
             print('questo utente non esiste')
