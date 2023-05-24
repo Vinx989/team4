@@ -1,5 +1,10 @@
 """
     Social Network Abstraction
+    Questo programma rappresenta un social network dove è previsto la creazione di un account
+    L'accesso al proprio account
+    Pubblicare contenuti sottoforma di post  o rimuovere vecchi contenuti
+    Commentare i post di altri utenti di Abstraction
+    La possibilità di seguire le attività di altri utenti di Abstraction e di rimuoverli dalla lista dei seguiti
 
 """
 
