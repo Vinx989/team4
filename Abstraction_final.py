@@ -212,10 +212,12 @@ def Registrazione():
 # Questo metodo include tutte le funzionalità a cui l'utente può accedere
 # I funzionalità sono state dichiarati nella class User
 def Abstraction(NumeroUtente):
-    print(f'Salve {lista_utenti_oggetto[NumeroUtente].username}, scegli cosa vuoi fare: \n')
+    
 
     inAbstraction = True
     while inAbstraction:
+        print(f'Salve {lista_utenti_oggetto[NumeroUtente].username}, scegli cosa vuoi fare: \n')
+        
         print('0. Per accedere con un altro account \n')
         
         print('1. Pubblica un Post')
