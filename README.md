@@ -13,7 +13,7 @@ I componenti del gruppo sono
 
 # Progetto
 
-Il progetto prevede la costruzione di un social network dove e' possinile registrarsi, creare un post, commentare un post e aggiungere followers
+Il progetto prevede la costruzione di un social network dove e' possibile registrarsi, creare un post, commentare un post e aggiungere followers
 Al progetto seguira' un upgrade successivo in cui sara' possibile definire i livelli di amicizia e visualizzare i post in base ai livelli di amicizia
 
 # Struttura del codice:
