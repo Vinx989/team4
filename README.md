@@ -3,13 +3,13 @@ Esercitazione python data intelligence experis academy
 
 I componenti del gruppo sono 
 
-- Bassi Stefano (Ueloiol)
+- Bassi Stefano (Ueloiol) (https://github.com/Ueloiol)
 
-- Alessandra Rispoli (Alerisp94)
+- Alessandra Rispoli (Alerisp94) (https://github.com/alerisp94)
 
-- Nicola Pacella (Pach90)
+- Nicola Pacella (Pach90) (https://github.com/pach91)
 
-- Bruno Vincenzo (Vinx9898) (leader in senso lato)
+- Bruno Vincenzo (Vinx9898) (leader in senso lato) (https://github.com/Vinx989)
 
 # Progetto
 
@@ -25,7 +25,7 @@ Infine troviamo un metodo che funge da menù per l'utente una volta entrato in A
 Contiene la lista degli utenti, dove per ogni utente vengono consrvate tutte le informazioni primarie, amici e post
 
 ### classe Utente - 
-Contiene le funzioni principali accedi/registra/crea e cancella post/follow ed unfollow amici. Elementi una volta creati vengono aggiunti
+Contiene le funzioni principali crea/cancella post e follow/unfollow amici. Elementi una volta creati vengono aggiunti
 alla lista_utenti_oggetto
 
 ### classe Post
@@ -62,7 +62,7 @@ In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento a
 - Indicatore di popolarità. Rendere visibile i like ricevuti, i folowers ed il numero dei post pubblicati
 - Impostare un profilo business dove si potrà aggiungere un url per accedere ad eventuali shop digitali
 
-La release della verisone 2.1 è prevista per fine settimana (31/05/2023)
+La release della verisone 2.1 è prevista per il 31/05/2023)
 
 ### Astraction 2.2
 
@@ -74,7 +74,7 @@ In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento a
 - Impostare un profilo pubblico/privato
 - Inserire la possibilità di verificare il profilo (bollino blue)
 
-La release della versione 2.2 è prevista per il 06/05/2023
+La release della versione 2.2 è prevista per il 06/06/2023
 
 # Commenti:
 
