@@ -17,7 +17,7 @@ Il progetto prevede la costruzione di un social network dove e' possinile regist
 Al progetto seguira' un upgrade successivo in cui sara' possibile definire i livelli di amicizia e visualizzare i post in base ai livelli di amicizia
 
 # Struttura del codice:
-Il progetto contiene due classi che riguardano servono per la creazione dell'utente e delle funzionalità che esso ha a disposizione.
+Il progetto contiene due classi che servono per la creazione dell'utente e delle funzionalità che esso ha a disposizione.
 Un metodo principale, AbstractionAccess, che è il main del progetto. Nello script è presente anche un metodo che gestisce la registazione la social.
 Infine troviamo un metodo che funge da menù per l'utente una volta entrato in Abstraction.
 
@@ -62,7 +62,7 @@ In segutio verranno aggiunte le seguenti funzionalità che faranno riferimento a
 - Indicatore di popolarità. Rendere visibile i like ricevuti, i folowers ed il numero dei post pubblicati
 - Impostare un profilo business dove si potrà aggiungere un url per accedere ad eventuali shop digitali
 
-La release della verisone 2.1 è prevista per il 31/05/2023)
+La release della verisone 2.1 è prevista per il 31/05/2023
 
 ### Astraction 2.2
 
