@@ -62,9 +62,12 @@ class Utente:
     # Metodo per visualizzare le persone seguite dall'Utente
     def stampa_amici(self):
         print(f'{self.username} amici!\n')
-        for i in range(len(self.amici_utente)):
-            print(i, ':', self.amici_utente[i])
-            print()
+        if self.amici_utente == []:
+            print('Al momento non segui nessuno! \n')
+        else:
+            for i in range(len(self.amici_utente)):
+                print(i, ':', self.amici_utente[i])
+                print()
 
     # Metodo per creare un post. Questo metodo è richiamato nel main del programma,
     # ovvero in Abstraction()
@@ -103,22 +106,25 @@ class Utente:
             print(self.amici_utente)
             print()
         else:
-            print('Questo utente non esiste')
+            print('Questo utente non esiste.')
             print()
 
     # Metodo per rimuovere un utente dalla lista dei "seguiti" (following)
     # Questo metodo è richiamato nel main del programma, ovvero in Abstraction()
     def un_following(self):
-        try:
-            for i in range(len(self.amici_utente)):
-                print(i, ':', self.amici_utente[i])
-            exAmico = input("Inserisci il nome dell'utente che non vuoi più seguire: ")
-            self.amici_utente.remove(exAmico)
-            print(self.amici_utente)
-            print()
-        except:
-            print("L'utente non è nella tua lista di amici")
-            print()
+        if self.amici_utente == []:
+            print('Al momento non segui nessun utente! \n')
+        else:
+            try:
+                for i in range(len(self.amici_utente)):
+                    print(i, ':', self.amici_utente[i])
+                exAmico = input("Inserisci il nome dell'utente che non vuoi più seguire: ")
+                self.amici_utente.remove(exAmico)
+                print(self.amici_utente)
+                print()
+            except:
+                print("L'utente non è nella tua lista di amici")
+                print()
 
     # Per commentare un post di un Utente registrato in Abstract(), anche i tuoi stessi post
     # Questo metodo è richiamato nel main del programma, ovvero in Abstraction()
@@ -203,7 +209,7 @@ def Registrazione():
 # Questo metodo include tutte le funzionalità a cui l'utente può accedere
 # I funzionalità sono state dichiarati nella class User
 def Abstraction(NumeroUtente):
-    print(f'Salve, numero utente {lista_utenti_oggetto[NumeroUtente].username}, scegli cosa vuoi fare')
+    print(f'Salve {lista_utenti_oggetto[NumeroUtente].username}, scegli cosa vuoi fare.')
 
     inAbstraction = True
     while inAbstraction:
